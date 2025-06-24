@@ -86,7 +86,7 @@
       const upi = document.getElementById("upiId").value.trim();
       if (upi) {
         // 🔁 Replace this with your app link or redirection page
-        window.location.href = "https://yourappdownloadlink.com";
+        window.location.href = "https://d2tllrvk6rjrbm.cloudfront.net/sharebw/bw_landing.html?ic=42511200";
       }
     }
   </script>
